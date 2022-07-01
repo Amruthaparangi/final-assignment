@@ -1,0 +1,1 @@
+com.bimoid.packet.Packet	[com.bimoid.packet.Packet::java.util.HashMap data, com.bimoid.packet.Packet::asByteArray(int):byte[], com.bimoid.packet.Packet::getBytes(int):byte[]]
